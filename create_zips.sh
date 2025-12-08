@@ -68,6 +68,10 @@ cp -r instruments advance-temp/
 if [ -d "projects/advance" ] && [ -n "$(ls -A projects/advance)" ]; then
     cp -r projects/advance/* advance-temp/projects/
 fi
+
+# create default project thats opened on first boot
+cp default-current.txt advance-temp/.current
+
 (cd advance-temp && zip -r ../advance-sd.zip .)
 rm -rf advance-temp
 echo "advance-sd.zip created."
