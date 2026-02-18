@@ -1,0 +1,15 @@
+<THEME>
+  <Font value="#1" />
+  <Color name="BACKGROUND" value="#000000" />
+  <Color name="FOREGROUND" value="#00FF00" /> <!-- Matrix groen -->
+  <Color name="HICOLOR1" value="#FFFFFF" />
+  <Color name="HICOLOR2" value="#008080" />
+  <Color name="CONSOLECOLOR" value="#000080" />
+  <Color name="CURSORCOLOR" value="#FFFFFF" />
+  <Color name="INFOCOLOR" value="#00FF00" />
+  <Color name="WARNCOLOR" value="#FFFF00" />
+  <Color name="ERRORCOLOR" value="#FF0000" />
+  <Color name="ACCENTCOLOR" value="#008080" />
+  <Color name="ACCENTALTCOLOR" value="#C0C0C0" />
+  <Color name="EMPHASISCOLOR" value="#FFFFFF" />
+</THEME>

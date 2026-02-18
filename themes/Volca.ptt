@@ -1,0 +1,15 @@
+<THEME>
+  <Font value="#1" />
+  <Color name="BACKGROUND" value="#000000" /> <!-- Diepzwart -->
+  <Color name="FOREGROUND" value="#CCCCCC" /> <!-- Zilveren belettering -->
+  <Color name="HICOLOR1" value="#FF0000" />    <!-- LED Rood -->
+  <Color name="HICOLOR2" value="#C5A059" />    <!-- Volca Goud/Messing -->
+  <Color name="CONSOLECOLOR" value="#111111" />
+  <Color name="CURSORCOLOR" value="#FF0000" />
+  <Color name="INFOCOLOR" value="#C5A059" />
+  <Color name="WARNCOLOR" value="#FF0000" />
+  <Color name="ERRORCOLOR" value="#FF4444" />
+  <Color name="ACCENTCOLOR" value="#FF0000" />
+  <Color name="ACCENTALTCOLOR" value="#C5A059" />
+  <Color name="EMPHASISCOLOR" value="#FFFFFF" />
+</THEME>

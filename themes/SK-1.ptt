@@ -1,0 +1,15 @@
+<THEME>
+  <Font value="#1" />
+  <Color name="BACKGROUND" value="#D2B48C" /> <!-- Retro beige/tan -->
+  <Color name="FOREGROUND" value="#333333" /> <!-- Donkergrijs -->
+  <Color name="HICOLOR1" value="#4682B4" />    <!-- SK-1 Blauw -->
+  <Color name="HICOLOR2" value="#808080" />    <!-- Neutraal grijs -->
+  <Color name="CONSOLECOLOR" value="#A9A9A9" />
+  <Color name="CURSORCOLOR" value="#4682B4" />
+  <Color name="INFOCOLOR" value="#333333" />
+  <Color name="WARNCOLOR" value="#808080" />
+  <Color name="ERRORCOLOR" value="#8B0000" />
+  <Color name="ACCENTCOLOR" value="#4682B4" />
+  <Color name="ACCENTALTCOLOR" value="#D2B48C" />
+  <Color name="EMPHASISCOLOR" value="#000000" />
+</THEME>

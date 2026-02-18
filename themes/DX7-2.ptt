@@ -1,0 +1,15 @@
+<THEME>
+  <Font value="#1" />
+  <Color name="BACKGROUND" value="#1A1A1B" /> <!-- Bijna zwart metaal -->
+  <Color name="FOREGROUND" value="#E0E0E0" /> <!-- Gebroken wit -->
+  <Color name="HICOLOR1" value="#00A896" />    <!-- DX7 Groen/Turquoise -->
+  <Color name="HICOLOR2" value="#4A4A4A" />    <!-- Donkergrijs -->
+  <Color name="CONSOLECOLOR" value="#004D40" />
+  <Color name="CURSORCOLOR" value="#00A896" />
+  <Color name="INFOCOLOR" value="#E0E0E0" />
+  <Color name="WARNCOLOR" value="#00A896" />
+  <Color name="ERRORCOLOR" value="#D32F2F" />
+  <Color name="ACCENTCOLOR" value="#00A896" />
+  <Color name="ACCENTALTCOLOR" value="#1A1A1B" />
+  <Color name="EMPHASISCOLOR" value="#FFFFFF" />
+</THEME>

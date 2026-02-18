@@ -1,0 +1,15 @@
+<THEME>
+  <Font value="#1" />
+  <Color name="BACKGROUND" value="#000000" /> <!-- Zwart paneel -->
+  <Color name="FOREGROUND" value="#FFFFFF" />
+  <Color name="HICOLOR1" value="#AA387B" />    <!-- Matriarch Roze/Paars -->
+  <Color name="HICOLOR2" value="#E69857" />    <!-- Matriarch Oranje/Geel -->
+  <Color name="CONSOLECOLOR" value="#222222" />
+  <Color name="CURSORCOLOR" value="#AA387B" />
+  <Color name="INFOCOLOR" value="#FFFFFF" />
+  <Color name="WARNCOLOR" value="#E69857" />
+  <Color name="ERRORCOLOR" value="#831374" />
+  <Color name="ACCENTCOLOR" value="#AA387B" />
+  <Color name="ACCENTALTCOLOR" value="#E69857" />
+  <Color name="EMPHASISCOLOR" value="#FFFFFF" />
+</THEME>
