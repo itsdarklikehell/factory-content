@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#1F1F1F"/>
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#333333"/>
+    <Color name="HICOLOR2" value="#FF3C28"/> <!-- Neon Red -->
+    <Color name="CONSOLECOLOR" value="#0AB9E6"/> <!-- Neon Blue -->
+    <Color name="CURSORCOLOR" value="#FF3C28"/>
+    <Color name="INFOCOLOR" value="#0AB9E6"/>
+    <Color name="WARNCOLOR" value="#FFFFFF"/>
+    <Color name="ERRORCOLOR" value="#FF3C28"/>
+    <Color name="ACCENTCOLOR" value="#2A2A2A"/>
+    <Color name="ACCENTALTCOLOR" value="#121212"/>
+    <Color name="EMPHASISCOLOR" value="#0AB9E6"/>
+</THEME>

@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#0A0A0A"/>
+    <Color name="FOREGROUND" value="#00FFFF"/> <!-- DedSec Cyan -->
+    <Color name="HICOLOR1" value="#1A1A1A"/>
+    <Color name="HICOLOR2" value="#FF00FF"/> <!-- DedSec Magenta -->
+    <Color name="CONSOLECOLOR" value="#00FF00"/> <!-- Terminal Green -->
+    <Color name="CURSORCOLOR" value="#FF00FF"/>
+    <Color name="INFOCOLOR" value="#00FFFF"/>
+    <Color name="WARNCOLOR" value="#FFFF00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#222222"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#333333"/>
+</THEME>

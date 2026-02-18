@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#C0C0C0"/> <!-- Zilveren behuizing -->
+    <Color name="FOREGROUND" value="#333333"/> <!-- Donkere belettering -->
+    <Color name="HICOLOR1" value="#808080"/>
+    <Color name="HICOLOR2" value="#FF0000"/> <!-- Acid Red Accent -->
+    <Color name="CONSOLECOLOR" value="#000000"/>
+    <Color name="CURSORCOLOR" value="#FF0000"/>
+    <Color name="INFOCOLOR" value="#333333"/>
+    <Color name="WARNCOLOR" value="#FF0000"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#999999"/>
+    <Color name="ACCENTALTCOLOR" value="#D0D0D0"/>
+    <Color name="EMPHASISCOLOR" value="#FF0000"/>
+</THEME>

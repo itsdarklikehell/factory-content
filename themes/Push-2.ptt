@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#050505"/>
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#222222"/>
+    <Color name="HICOLOR2" value="#FF00FF"/> <!-- High Saturation Pink -->
+    <Color name="CONSOLECOLOR" value="#00FFFF"/> <!-- High Saturation Cyan -->
+    <Color name="CURSORCOLOR" value="#FFFF00"/> <!-- High Saturation Yellow -->
+    <Color name="INFOCOLOR" value="#00FF00"/>
+    <Color name="WARNCOLOR" value="#FF7F00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#151515"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#222222"/>
+</THEME>

@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#0A0700"/>
+    <Color name="FOREGROUND" value="#FFB200"/> <!-- HUD Amber -->
+    <Color name="HICOLOR1" value="#442200"/>
+    <Color name="HICOLOR2" value="#00D4FF"/> <!-- Scan Visor Blue -->
+    <Color name="CONSOLECOLOR" value="#00D4FF"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#00D4FF"/>
+    <Color name="WARNCOLOR" value="#FF8000"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#221100"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#442200"/>
+</THEME>

@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#050805"/>
+    <Color name="FOREGROUND" value="#19FF19"/> <!-- Tracking Green -->
+    <Color name="HICOLOR1" value="#003300"/>
+    <Color name="HICOLOR2" value="#FFCC00"/> <!-- Warning Amber -->
+    <Color name="CONSOLECOLOR" value="#19FF19"/>
+    <Color name="CURSORCOLOR" value="#19FF19"/>
+    <Color name="INFOCOLOR" value="#19FF19"/>
+    <Color name="WARNCOLOR" value="#FFCC00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#0A140A"/>
+    <Color name="ACCENTALTCOLOR" value="#020502"/>
+    <Color name="EMPHASISCOLOR" value="#003300"/>
+</THEME>

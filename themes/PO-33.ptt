@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#2E2E2E"/>
+    <Color name="FOREGROUND" value="#FFEE00"/> <!-- PO Yellow -->
+    <Color name="HICOLOR1" value="#444444"/>
+    <Color name="HICOLOR2" value="#FFFFFF"/>
+    <Color name="CONSOLECOLOR" value="#FFEE00"/>
+    <Color name="CURSORCOLOR" value="#FFEE00"/>
+    <Color name="INFOCOLOR" value="#AAAAAA"/>
+    <Color name="WARNCOLOR" value="#FFEE00"/>
+    <Color name="ERRORCOLOR" value="#FF4444"/>
+    <Color name="ACCENTCOLOR" value="#383838"/>
+    <Color name="ACCENTALTCOLOR" value="#222222"/>
+    <Color name="EMPHASISCOLOR" value="#444444"/>
+</THEME>

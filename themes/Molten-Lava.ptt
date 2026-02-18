@@ -1,0 +1,15 @@
+<THEME>
+  <Font value="#1" />
+  <Color name="BACKGROUND" value="#110000" />
+  <Color name="FOREGROUND" value="#FF2200" />
+  <Color name="HICOLOR1" value="#FFCC00" />
+  <Color name="HICOLOR2" value="#330000" />
+  <Color name="CONSOLECOLOR" value="#FF6600" />
+  <Color name="CURSORCOLOR" value="#FFCC00" />
+  <Color name="INFOCOLOR" value="#FF2200" />
+  <Color name="WARNCOLOR" value="#FFFFFF" />
+  <Color name="ERRORCOLOR" value="#FF0000" />
+  <Color name="ACCENTCOLOR" value="#FFCC00" />
+  <Color name="ACCENTALTCOLOR" value="#110000" />
+  <Color name="EMPHASISCOLOR" value="#FFFFFF" />
+</THEME>

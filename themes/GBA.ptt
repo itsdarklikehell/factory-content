@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#3A3A91"/> <!-- GBA Indigo Paars -->
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#2A2A72"/>
+    <Color name="HICOLOR2" value="#A5A5D8"/> <!-- Lichtpaars -->
+    <Color name="CONSOLECOLOR" value="#000000"/>
+    <Color name="CURSORCOLOR" value="#FFCC00"/> <!-- Nintendo Geel -->
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#A5A5D8"/>
+    <Color name="ERRORCOLOR" value="#FF4444"/>
+    <Color name="ACCENTCOLOR" value="#4B4BA8"/>
+    <Color name="ACCENTALTCOLOR" value="#2E2E80"/>
+    <Color name="EMPHASISCOLOR" value="#A5A5D8"/>
+</THEME>

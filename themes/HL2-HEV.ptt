@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#1A150F"/> <!-- Donkerbruine schaduw -->
+    <Color name="FOREGROUND" value="#FFB000"/> <!-- HEV Amber -->
+    <Color name="HICOLOR1" value="#3E2C1A"/>
+    <Color name="HICOLOR2" value="#FF9600"/>
+    <Color name="CONSOLECOLOR" value="#FFB000"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/> <!-- Bright White for contrast -->
+    <Color name="INFOCOLOR" value="#FFB000"/>
+    <Color name="WARNCOLOR" value="#FF9600"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#2B1F13"/>
+    <Color name="ACCENTALTCOLOR" value="#120D08"/>
+    <Color name="EMPHASISCOLOR" value="#3E2C1A"/>
+</THEME>

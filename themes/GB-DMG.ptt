@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#8BAC0F"/> <!-- Donkerste groen -->
+    <Color name="FOREGROUND" value="#0F380F"/> <!-- Donkerst/Zwart groen -->
+    <Color name="HICOLOR1" value="#306230"/>
+    <Color name="HICOLOR2" value="#0F380F"/>
+    <Color name="CONSOLECOLOR" value="#0F380F"/>
+    <Color name="CURSORCOLOR" value="#306230"/>
+    <Color name="INFOCOLOR" value="#9BBC0F"/>
+    <Color name="WARNCOLOR" value="#8BAC0F"/>
+    <Color name="ERRORCOLOR" value="#0F380F"/>
+    <Color name="ACCENTCOLOR" value="#9BBC0F"/>
+    <Color name="ACCENTALTCOLOR" value="#CADC9D"/> <!-- Lichtste groen -->
+    <Color name="EMPHASISCOLOR" value="#8BAC0F"/>
+</THEME>

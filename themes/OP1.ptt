@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#E5E5E5"/> <!-- OP-1 Lichtgrijs -->
+    <Color name="FOREGROUND" value="#323232"/>
+    <Color name="HICOLOR1" value="#CCCCCC"/>
+    <Color name="HICOLOR2" value="#007AFF"/> <!-- Blauwe knop -->
+    <Color name="CONSOLECOLOR" value="#00C853"/> <!-- Groene knop -->
+    <Color name="CURSORCOLOR" value="#FF5722"/> <!-- Oranje knop -->
+    <Color name="INFOCOLOR" value="#007AFF"/>
+    <Color name="WARNCOLOR" value="#FF5722"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#D8D8D8"/>
+    <Color name="ACCENTALTCOLOR" value="#F5F5F5"/>
+    <Color name="EMPHASISCOLOR" value="#FFFFFF"/> <!-- Witte knop -->
+</THEME>

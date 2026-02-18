@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#1A1510"/>
+    <Color name="FOREGROUND" value="#A08060"/> <!-- Muddy Brown -->
+    <Color name="HICOLOR1" value="#403020"/>
+    <Color name="HICOLOR2" value="#FFD000"/> <!-- Gold Armor -->
+    <Color name="CONSOLECOLOR" value="#A08060"/>
+    <Color name="CURSORCOLOR" value="#FF0000"/> <!-- Health Red -->
+    <Color name="INFOCOLOR" value="#A08060"/>
+    <Color name="WARNCOLOR" value="#FFD000"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#2A2015"/>
+    <Color name="ACCENTALTCOLOR" value="#0F0A05"/>
+    <Color name="EMPHASISCOLOR" value="#403020"/>
+</THEME>

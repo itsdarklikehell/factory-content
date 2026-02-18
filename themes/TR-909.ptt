@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#D6D2C4"/> <!-- 909 Beige/Grijs -->
+    <Color name="FOREGROUND" value="#2D2D2D"/> <!-- Donkere tekst -->
+    <Color name="HICOLOR1" value="#B5B0A1"/>
+    <Color name="HICOLOR2" value="#FF6600"/> <!-- 909 Oranje accent -->
+    <Color name="CONSOLECOLOR" value="#2D2D2D"/>
+    <Color name="CURSORCOLOR" value="#FF6600"/>
+    <Color name="INFOCOLOR" value="#FFCC00"/> <!-- 909 Gele LED -->
+    <Color name="WARNCOLOR" value="#FF6600"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#A09B8E"/>
+    <Color name="ACCENTALTCOLOR" value="#E2DED3"/>
+    <Color name="EMPHASISCOLOR" value="#B5B0A1"/>
+</THEME>

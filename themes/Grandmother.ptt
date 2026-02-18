@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#222222"/>
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#444444"/>
+    <Color name="HICOLOR2" value="#00B4D8"/> <!-- Moog Blauw -->
+    <Color name="CONSOLECOLOR" value="#FFEE93"/> <!-- Moog Geel -->
+    <Color name="CURSORCOLOR" value="#FF92BB"/> <!-- Moog Roze -->
+    <Color name="INFOCOLOR" value="#A0FF91"/> <!-- Moog Groen -->
+    <Color name="WARNCOLOR" value="#FFEE93"/>
+    <Color name="ERRORCOLOR" value="#FF92BB"/>
+    <Color name="ACCENTCOLOR" value="#333333"/>
+    <Color name="ACCENTALTCOLOR" value="#151515"/>
+    <Color name="EMPHASISCOLOR" value="#00B4D8"/>
+</THEME>

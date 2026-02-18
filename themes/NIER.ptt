@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#BAB5A1"/> <!-- Paper Beige -->
+    <Color name="FOREGROUND" value="#4B493B"/> <!-- Charcoal Ink -->
+    <Color name="HICOLOR1" value="#9D9884"/>
+    <Color name="HICOLOR2" value="#575446"/>
+    <Color name="CONSOLECOLOR" value="#4B493B"/>
+    <Color name="CURSORCOLOR" value="#4B493B"/>
+    <Color name="INFOCOLOR" value="#7D7866"/>
+    <Color name="WARNCOLOR" value="#9D9884"/>
+    <Color name="ERRORCOLOR" value="#8C3333"/> <!-- Muted Red -->
+    <Color name="ACCENTCOLOR" value="#A8A38F"/>
+    <Color name="ACCENTALTCOLOR" value="#C5C0AA"/>
+    <Color name="EMPHASISCOLOR" value="#9D9884"/>
+</THEME>

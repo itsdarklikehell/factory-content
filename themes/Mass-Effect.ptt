@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#121417"/> <!-- Deep Space Grey -->
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#353D42"/>
+    <Color name="HICOLOR2" value="#E61809"/> <!-- N7 Red Stripe -->
+    <Color name="CONSOLECOLOR" value="#0EB9FE"/> <!-- Omni-tool Blue -->
+    <Color name="CURSORCOLOR" value="#0EB9FE"/>
+    <Color name="INFOCOLOR" value="#0EB9FE"/>
+    <Color name="WARNCOLOR" value="#F1F1F1"/>
+    <Color name="ERRORCOLOR" value="#E61809"/>
+    <Color name="ACCENTCOLOR" value="#262626"/>
+    <Color name="ACCENTALTCOLOR" value="#0D0D0D"/>
+    <Color name="EMPHASISCOLOR" value="#A60A0A"/>
+</THEME>

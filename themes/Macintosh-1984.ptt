@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#D2D2C0"/> <!-- Klassiek Apple Beige -->
+    <Color name="FOREGROUND" value="#000000"/> <!-- Zwarte tekst -->
+    <Color name="HICOLOR1" value="#A5A595"/>
+    <Color name="HICOLOR2" value="#505050"/>
+    <Color name="CONSOLECOLOR" value="#000000"/>
+    <Color name="CURSORCOLOR" value="#000000"/>
+    <Color name="INFOCOLOR" value="#606060"/>
+    <Color name="WARNCOLOR" value="#888877"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/> <!-- Apple 'Red' accent -->
+    <Color name="ACCENTCOLOR" value="#BDBDAE"/>
+    <Color name="ACCENTALTCOLOR" value="#E5E5D5"/>
+    <Color name="EMPHASISCOLOR" value="#A5A595"/>
+</THEME>

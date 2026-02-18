@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#051014"/> <!-- Deep Sea -->
+    <Color name="FOREGROUND" value="#C5A059"/> <!-- Art Deco Gold -->
+    <Color name="HICOLOR1" value="#1A3035"/>
+    <Color name="HICOLOR2" value="#E0C080"/>
+    <Color name="CONSOLECOLOR" value="#E0C080"/>
+    <Color name="CURSORCOLOR" value="#E0C080"/>
+    <Color name="INFOCOLOR" value="#C5A059"/>
+    <Color name="WARNCOLOR" value="#D44000"/> <!-- Plasmid Red -->
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#0A1F24"/>
+    <Color name="ACCENTALTCOLOR" value="#03080A"/>
+    <Color name="EMPHASISCOLOR" value="#1A3035"/>
+</THEME>

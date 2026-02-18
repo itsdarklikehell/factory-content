@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#00050A"/>
+    <Color name="FOREGROUND" value="#00D2FF"/> <!-- Cyber Blue -->
+    <Color name="HICOLOR1" value="#001F3F"/>
+    <Color name="HICOLOR2" value="#FFFFFF"/>
+    <Color name="CONSOLECOLOR" value="#00D2FF"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#00D2FF"/>
+    <Color name="WARNCOLOR" value="#005A9C"/>
+    <Color name="ERRORCOLOR" value="#FF0055"/>
+    <Color name="ACCENTCOLOR" value="#000F1A"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#001F3F"/>
+</THEME>

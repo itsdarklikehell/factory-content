@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#E5E5E5"/>
+    <Color name="FOREGROUND" value="#444444"/>
+    <Color name="HICOLOR1" value="#CCCCCC"/>
+    <Color name="HICOLOR2" value="#0094FF"/> <!-- Portal Blue -->
+    <Color name="CONSOLECOLOR" value="#FF6A00"/> <!-- Portal Orange -->
+    <Color name="CURSORCOLOR" value="#0094FF"/>
+    <Color name="INFOCOLOR" value="#444444"/>
+    <Color name="WARNCOLOR" value="#FF6A00"/>
+    <Color name="ERRORCOLOR" value="#D00000"/>
+    <Color name="ACCENTCOLOR" value="#D8D8D8"/>
+    <Color name="ACCENTALTCOLOR" value="#F5F5F5"/>
+    <Color name="EMPHASISCOLOR" value="#CCCCCC"/>
+</THEME>

@@ -1,0 +1,27 @@
+<THEME>
+    <Font value="#1"/>
+    <!-- Diep donkergrijs/zwart voor de achtergrond -->
+    <Color name="BACKGROUND" value="#050505"/>
+    <!-- Helder Cyberpunk geel voor de belangrijkste tekst -->
+    <Color name="FOREGROUND" value="#FCEE0C"/>
+    <!-- Subtieler grijs voor minder belangrijke info -->
+    <Color name="HICOLOR1" value="#303030"/>
+    <!-- Neon rood voor sterke accenten -->
+    <Color name="HICOLOR2" value="#FF003C"/>
+    <!-- Cyaan/Blauw voor systeem/console info -->
+    <Color name="CONSOLECOLOR" value="#00F0FF"/>
+    <!-- De cursor knalt eruit in rood -->
+    <Color name="CURSORCOLOR" value="#FF003C"/>
+    <!-- Succes-groen in een felle tint -->
+    <Color name="INFOCOLOR" value="#00FF9D"/>
+    <!-- Waarschuwingen in oranje/geel -->
+    <Color name="WARNCOLOR" value="#FCEE0C"/>
+    <!-- Error in puur rood -->
+    <Color name="ERRORCOLOR" value="#F50000"/>
+    <!-- Donkerdere geeltinten voor de interface elementen -->
+    <Color name="ACCENTCOLOR" value="#B1A708"/>
+    <Color name="ACCENTALTCOLOR" value="#202020"/>
+    <!-- Voor de 'nadruk' gebruiken we een donkere rode gloed -->
+    <Color name="EMPHASISCOLOR" value="#440010"/>
+</THEME>
+

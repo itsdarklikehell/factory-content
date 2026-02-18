@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#6A5ACD"/> <!-- GC Purple -->
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#483D8B"/>
+    <Color name="HICOLOR2" value="#FFD700"/> <!-- C-Stick Yellow -->
+    <Color name="CONSOLECOLOR" value="#00FF00"/> <!-- A-Button Green -->
+    <Color name="CURSORCOLOR" value="#FFD700"/>
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#FF4500"/> <!-- B-Button Red -->
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#5A4AB1"/>
+    <Color name="ACCENTALTCOLOR" value="#3A2A91"/>
+    <Color name="EMPHASISCOLOR" value="#483D8B"/>
+</THEME>

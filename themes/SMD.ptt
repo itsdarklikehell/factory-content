@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000000"/>
+    <Color name="FOREGROUND" value="#D0D0D0"/>
+    <Color name="HICOLOR1" value="#303030"/>
+    <Color name="HICOLOR2" value="#FFD700"/> <!-- Gold "16-bit" -->
+    <Color name="CONSOLECOLOR" value="#0055FF"/> <!-- Sega Blue -->
+    <Color name="CURSORCOLOR" value="#FFD700"/>
+    <Color name="INFOCOLOR" value="#0055FF"/>
+    <Color name="WARNCOLOR" value="#D0D0D0"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#1A1A1A"/>
+    <Color name="ACCENTALTCOLOR" value="#080808"/>
+    <Color name="EMPHASISCOLOR" value="#0055FF"/>
+</THEME>

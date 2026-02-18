@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#222222"/>
+    <Color name="FOREGROUND" value="#D0D0D0"/>
+    <Color name="HICOLOR1" value="#333333"/>
+    <Color name="HICOLOR2" value="#00FFB2"/> <!-- Ableton Turquoise -->
+    <Color name="CONSOLECOLOR" value="#AAAAAA"/>
+    <Color name="CURSORCOLOR" value="#00FFB2"/>
+    <Color name="INFOCOLOR" value="#00FFB2"/>
+    <Color name="WARNCOLOR" value="#FFD300"/>
+    <Color name="ERRORCOLOR" value="#FF5C5C"/>
+    <Color name="ACCENTCOLOR" value="#444444"/>
+    <Color name="ACCENTALTCOLOR" value="#2B2B2B"/>
+    <Color name="EMPHASISCOLOR" value="#3E3E3E"/>
+</THEME>

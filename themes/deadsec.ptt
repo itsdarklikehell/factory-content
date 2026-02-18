@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000000"/>
+    <Color name="FOREGROUND" value="#15FF00"/> <!-- Neon Groen -->
+    <Color name="HICOLOR1" value="#333333"/>
+    <Color name="HICOLOR2" value="#0051FF"/> <!-- Fel Blauw -->
+    <Color name="CONSOLECOLOR" value="#EC00FC"/> <!-- Neon Magenta -->
+    <Color name="CURSORCOLOR" value="#15FF00"/>
+    <Color name="INFOCOLOR" value="#0051FF"/>
+    <Color name="WARNCOLOR" value="#EC00FC"/>
+    <Color name="ERRORCOLOR" value="#F90D1B"/>
+    <Color name="ACCENTCOLOR" value="#1A1A1A"/>
+    <Color name="ACCENTALTCOLOR" value="#0A0A0A"/>
+    <Color name="EMPHASISCOLOR" value="#5F249F"/> <!-- DedSec Paars -->
+</THEME>

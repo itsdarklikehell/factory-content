@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000000"/>
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#333333"/>
+    <Color name="HICOLOR2" value="#D30000"/> <!-- Persona Rood -->
+    <Color name="CONSOLECOLOR" value="#D30000"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#D30000"/>
+    <Color name="WARNCOLOR" value="#999999"/>
+    <Color name="ERRORCOLOR" value="#D30000"/>
+    <Color name="ACCENTCOLOR" value="#1A1A1A"/>
+    <Color name="ACCENTALTCOLOR" value="#D30000"/> <!-- Voor die harde lijnen -->
+    <Color name="EMPHASISCOLOR" value="#FFFFFF"/>
+</THEME>

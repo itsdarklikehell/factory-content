@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#B2B2B2"/> <!-- Lichtgrijs plastic -->
+    <Color name="FOREGROUND" value="#4F4F4F"/> <!-- Donkergrijze tekst -->
+    <Color name="HICOLOR1" value="#8C8C8C"/>
+    <Color name="HICOLOR2" value="#7A5299"/> <!-- SNES Paars -->
+    <Color name="CONSOLECOLOR" value="#552F7A"/> <!-- Donkerpaars -->
+    <Color name="CURSORCOLOR" value="#7A5299"/>
+    <Color name="INFOCOLOR" value="#4F4F4F"/>
+    <Color name="WARNCOLOR" value="#D9B611"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#A0A0A0"/>
+    <Color name="ACCENTALTCOLOR" value="#CCCCCC"/>
+    <Color name="EMPHASISCOLOR" value="#7A5299"/>
+</THEME>

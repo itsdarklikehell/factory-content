@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#202025"/>
+    <Color name="FOREGROUND" value="#40A0FF"/> <!-- Oberheim Blue -->
+    <Color name="HICOLOR1" value="#303035"/>
+    <Color name="HICOLOR2" value="#FFFFFF"/>
+    <Color name="CONSOLECOLOR" value="#40A0FF"/>
+    <Color name="CURSORCOLOR" value="#40A0FF"/>
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#40A0FF"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#15151A"/>
+    <Color name="ACCENTALTCOLOR" value="#0A0A0F"/>
+    <Color name="EMPHASISCOLOR" value="#40A0FF"/>
+</THEME>

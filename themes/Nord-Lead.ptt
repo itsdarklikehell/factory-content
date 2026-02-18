@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#8B0000"/> <!-- Nord Red -->
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#B22222"/>
+    <Color name="HICOLOR2" value="#000000"/>
+    <Color name="CONSOLECOLOR" value="#000000"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#000000"/>
+    <Color name="ERRORCOLOR" value="#000000"/>
+    <Color name="ACCENTCOLOR" value="#A52A2A"/>
+    <Color name="ACCENTALTCOLOR" value="#700000"/>
+    <Color name="EMPHASISCOLOR" value="#000000"/>
+</THEME>

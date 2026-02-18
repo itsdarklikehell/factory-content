@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000000"/>
+    <Color name="FOREGROUND" value="#00FF41"/> <!-- Matrix Green -->
+    <Color name="HICOLOR1" value="#003B00"/>
+    <Color name="HICOLOR2" value="#008F11"/>
+    <Color name="CONSOLECOLOR" value="#00FF41"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/> <!-- White cursor for focus -->
+    <Color name="INFOCOLOR" value="#00FF41"/>
+    <Color name="WARNCOLOR" value="#008F11"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#003B00"/>
+    <Color name="ACCENTALTCOLOR" value="#001100"/>
+    <Color name="EMPHASISCOLOR" value="#003B00"/>
+</THEME>

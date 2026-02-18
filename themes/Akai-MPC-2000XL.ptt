@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#DCD0C0"/> <!-- MPC Beige -->
+    <Color name="FOREGROUND" value="#202020"/> 
+    <Color name="HICOLOR1" value="#A09080"/>
+    <Color name="HICOLOR2" value="#FF4500"/> <!-- Akai logo rood -->
+    <Color name="CONSOLECOLOR" value="#3A3A3A"/>
+    <Color name="CURSORCOLOR" value="#708090"/> <!-- Pad Grijs -->
+    <Color name="INFOCOLOR" value="#202020"/>
+    <Color name="WARNCOLOR" value="#A09080"/>
+    <Color name="ERRORCOLOR" value="#B22222"/>
+    <Color name="ACCENTCOLOR" value="#C0B0A0"/>
+    <Color name="ACCENTALTCOLOR" value="#E8E0D0"/>
+    <Color name="EMPHASISCOLOR" value="#708090"/>
+</THEME>

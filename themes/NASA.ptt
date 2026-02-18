@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#2B2D2F"/> <!-- Dark Grey Metal -->
+    <Color name="FOREGROUND" value="#D2D2C0"/> <!-- Bone White -->
+    <Color name="HICOLOR1" value="#4A4E52"/>
+    <Color name="HICOLOR2" value="#E67E22"/> <!-- Orange Button -->
+    <Color name="CONSOLECOLOR" value="#2ECC71"/> <!-- Green Monitor -->
+    <Color name="CURSORCOLOR" value="#E74C3C"/> <!-- Red Indicator -->
+    <Color name="INFOCOLOR" value="#3498DB"/>
+    <Color name="WARNCOLOR" value="#F1C40F"/>
+    <Color name="ERRORCOLOR" value="#E74C3C"/>
+    <Color name="ACCENTCOLOR" value="#3E4246"/>
+    <Color name="ACCENTALTCOLOR" value="#1C1E20"/>
+    <Color name="EMPHASISCOLOR" value="#5D6D7E"/>
+</THEME>

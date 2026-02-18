@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#2C2C2C"/> <!-- Donkerbruin/Zwart -->
+    <Color name="FOREGROUND" value="#00A896"/> <!-- DX7 Teal knoppen -->
+    <Color name="HICOLOR1" value="#3E3E3E"/>
+    <Color name="HICOLOR2" value="#FFFFFF"/>
+    <Color name="CONSOLECOLOR" value="#00A896"/>
+    <Color name="CURSORCOLOR" value="#00A896"/>
+    <Color name="INFOCOLOR" value="#00A896"/>
+    <Color name="WARNCOLOR" value="#D19A66"/>
+    <Color name="ERRORCOLOR" value="#E06C75"/>
+    <Color name="ACCENTCOLOR" value="#333333"/>
+    <Color name="ACCENTALTCOLOR" value="#1A1A1A"/>
+    <Color name="EMPHASISCOLOR" value="#00A896"/>
+</THEME>

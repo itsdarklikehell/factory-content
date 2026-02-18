@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000000"/>
+    <Color name="FOREGROUND" value="#55FFFF"/> <!-- CGA Cyan -->
+    <Color name="HICOLOR1" value="#0000AA"/>
+    <Color name="HICOLOR2" value="#FF55FF"/> <!-- CGA Magenta -->
+    <Color name="CONSOLECOLOR" value="#FFFFFF"/> <!-- CGA White -->
+    <Color name="CURSORCOLOR" value="#FF55FF"/>
+    <Color name="INFOCOLOR" value="#55FFFF"/>
+    <Color name="WARNCOLOR" value="#FFFF55"/>
+    <Color name="ERRORCOLOR" value="#FF5555"/>
+    <Color name="ACCENTCOLOR" value="#AA00AA"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#FF55FF"/>
+</THEME>

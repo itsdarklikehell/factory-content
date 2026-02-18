@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#240b36"/> <!-- Deep Purple -->
+    <Color name="FOREGROUND" value="#ff00ff"/> <!-- Neon Pink -->
+    <Color name="HICOLOR1" value="#2d0b5a"/>
+    <Color name="HICOLOR2" value="#00dbde"/> <!-- Cyan accent -->
+    <Color name="CONSOLECOLOR" value="#00dbde"/>
+    <Color name="CURSORCOLOR" value="#ff00ff"/>
+    <Color name="INFOCOLOR" value="#00dbde"/>
+    <Color name="WARNCOLOR" value="#f39c12"/>
+    <Color name="ERRORCOLOR" value="#c0392b"/>
+    <Color name="ACCENTCOLOR" value="#642b73"/>
+    <Color name="ACCENTALTCOLOR" value="#1a0626"/>
+    <Color name="EMPHASISCOLOR" value="#4b0082"/>
+</THEME>

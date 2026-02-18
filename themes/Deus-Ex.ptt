@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#0D0D0D"/>
+    <Color name="FOREGROUND" value="#F2E750"/> <!-- Sarif Gold -->
+    <Color name="HICOLOR1" value="#403014"/>
+    <Color name="HICOLOR2" value="#D9A036"/>
+    <Color name="CONSOLECOLOR" value="#8C6723"/>
+    <Color name="CURSORCOLOR" value="#F2E750"/>
+    <Color name="INFOCOLOR" value="#D9A036"/>
+    <Color name="WARNCOLOR" value="#8C6723"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#261F17"/>
+    <Color name="ACCENTALTCOLOR" value="#131313"/>
+    <Color name="EMPHASISCOLOR" value="#403014"/>
+</THEME>

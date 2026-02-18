@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#1A1A1A"/> <!-- Matzwart -->
+    <Color name="FOREGROUND" value="#FFCC00"/> <!-- MS-20 Geel -->
+    <Color name="HICOLOR1" value="#333333"/>
+    <Color name="HICOLOR2" value="#C0C0C0"/> <!-- Silver Jack Inputs -->
+    <Color name="CONSOLECOLOR" value="#FFCC00"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#FFCC00"/>
+    <Color name="WARNCOLOR" value="#FFCC00"/>
+    <Color name="ERRORCOLOR" value="#FF3300"/>
+    <Color name="ACCENTCOLOR" value="#2A2A2A"/>
+    <Color name="ACCENTALTCOLOR" value="#101010"/>
+    <Color name="EMPHASISCOLOR" value="#C0C0C0"/>
+</THEME>

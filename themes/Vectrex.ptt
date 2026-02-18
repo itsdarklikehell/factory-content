@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#020202"/>
+    <Color name="FOREGROUND" value="#E0E0FF"/> <!-- Glowing White -->
+    <Color name="HICOLOR1" value="#000044"/>
+    <Color name="HICOLOR2" value="#00A8FF"/> <!-- Vector Cyan -->
+    <Color name="CONSOLECOLOR" value="#00A8FF"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#E0E0FF"/>
+    <Color name="WARNCOLOR" value="#000044"/>
+    <Color name="ERRORCOLOR" value="#FF0080"/>
+    <Color name="ACCENTCOLOR" value="#050505"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#000044"/>
+</THEME>

@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#151515"/> <!-- Concrete Black -->
+    <Color name="FOREGROUND" value="#EFE6DD"/> <!-- Off-white/Beige -->
+    <Color name="HICOLOR1" value="#373737"/>
+    <Color name="HICOLOR2" value="#B21111"/> <!-- Hiss Red -->
+    <Color name="CONSOLECOLOR" value="#938191"/> <!-- Brutalist Purple/Grey -->
+    <Color name="CURSORCOLOR" value="#B21111"/>
+    <Color name="INFOCOLOR" value="#C9AABA"/>
+    <Color name="WARNCOLOR" value="#B2809B"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR: value="#2D2D2D"/>
+    <Color name="ACCENTALTCOLOR" value="#000000"/>
+    <Color name="EMPHASISCOLOR" value="#B21111"/>
+</THEME>

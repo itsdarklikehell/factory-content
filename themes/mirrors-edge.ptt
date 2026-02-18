@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#F0F0F0"/> <!-- Schoon wit/grijs -->
+    <Color name="FOREGROUND" value="#222222"/> <!-- Donkergrijs voor tekst -->
+    <Color name="HICOLOR1" value="#D0D0D0"/>
+    <Color name="HICOLOR2" value="#FF0000"/> <!-- Runner Red accent -->
+    <Color name="CONSOLECOLOR" value="#0099FF"/> <!-- Sky Blue -->
+    <Color name="CURSORCOLOR" value="#FF0000"/>
+    <Color name="INFOCOLOR" value="#0099FF"/>
+    <Color name="WARNCOLOR" value="#FFCC00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#E0E0E0"/>
+    <Color name="ACCENTALTCOLOR" value="#FFFFFF"/>
+    <Color name="EMPHASISCOLOR" value="#D0D0D0"/>
+</THEME>

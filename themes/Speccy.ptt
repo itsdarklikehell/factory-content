@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000000"/>
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#0000D7"/> <!-- Spectrum Blauw -->
+    <Color name="HICOLOR2" value="#D7D700"/> <!-- Spectrum Geel -->
+    <Color name="CONSOLECOLOR" value="#00D7D7"/> <!-- Spectrum Cyaan -->
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#00D700"/> <!-- Spectrum Groen -->
+    <Color name="WARNCOLOR" value="#D7D700"/>
+    <Color name="ERRORCOLOR" value="#D70000"/> <!-- Spectrum Rood -->
+    <Color name="ACCENTCOLOR" value="#0000D7"/>
+    <Color name="ACCENTALTCOLOR" value="#111111"/>
+    <Color name="EMPHASISCOLOR" value="#D700D7"/> <!-- Spectrum Magenta -->
+</THEME>

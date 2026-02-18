@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#081108"/>
+    <Color name="FOREGROUND" value="#33FF33"/> <!-- Apple II Groen -->
+    <Color name="HICOLOR1" value="#004400"/>
+    <Color name="HICOLOR2" value="#D2D2C0"/> <!-- Beige accent van de kast -->
+    <Color name="CONSOLECOLOR" value="#33FF33"/>
+    <Color name="CURSORCOLOR" value="#33FF33"/>
+    <Color name="INFOCOLOR" value="#33FF33"/>
+    <Color name="WARNCOLOR" value="#008800"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#112211"/>
+    <Color name="ACCENTALTCOLOR" value="#050A05"/>
+    <Color name="EMPHASISCOLOR" value="#004400"/>
+</THEME>

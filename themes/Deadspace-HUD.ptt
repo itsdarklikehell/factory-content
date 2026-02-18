@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#0A0F12"/>
+    <Color name="FOREGROUND" value="#4DEEEA"/> <!-- RIG Cyan -->
+    <Color name="HICOLOR1" value="#1B3B3D"/>
+    <Color name="HICOLOR2" value="#00BAFF"/>
+    <Color name="CONSOLECOLOR" value="#4DEEEA"/>
+    <Color name="CURSORCOLOR" value="#00BAFF"/>
+    <Color name="INFOCOLOR" value="#4DEEEA"/>
+    <Color name="WARNCOLOR" value="#FF9D00"/> <!-- Stasis Orange -->
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#142126"/>
+    <Color name="ACCENTALTCOLOR" value="#05080A"/>
+    <Color name="EMPHASISCOLOR" value="#1B3B3D"/>
+</THEME>

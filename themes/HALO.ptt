@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#000C14"/>
+    <Color name="FOREGROUND" value="#70D1FF"/> <!-- Shield Blue -->
+    <Color name="HICOLOR1" value="#102C40"/>
+    <Color name="HICOLOR2" value="#00FFCC"/> <!-- Cortana Teal -->
+    <Color name="CONSOLECOLOR" value="#70D1FF"/>
+    <Color name="CURSORCOLOR" value="#00FFCC"/>
+    <Color name="INFOCOLOR" value="#70D1FF"/>
+    <Color name="WARNCOLOR" value="#FFCC00"/>
+    <Color name="ERRORCOLOR" value="#FF3333"/>
+    <Color name="ACCENTCOLOR" value="#001F33"/>
+    <Color name="ACCENTALTCOLOR" value="#00080F"/>
+    <Color name="EMPHASISCOLOR" value="#102C40"/>
+</THEME>

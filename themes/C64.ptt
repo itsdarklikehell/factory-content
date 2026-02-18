@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#4040E0"/> <!-- C64 Border/Background -->
+    <Color name="FOREGROUND" value="#A0A0FF"/> <!-- C64 Light Blue Text -->
+    <Color name="HICOLOR1" value="#6060F0"/>
+    <Color name="HICOLOR2" value="#FFFFFF"/>
+    <Color name="CONSOLECOLOR" value="#A0A0FF"/>
+    <Color name="CURSORCOLOR" value="#FFFFFF"/>
+    <Color name="INFOCOLOR" value="#A0A0FF"/>
+    <Color name="WARNCOLOR" value="#4040E0"/>
+    <Color name="ERRORCOLOR" value="#000000"/>
+    <Color name="ACCENTCOLOR" value="#6060F0"/>
+    <Color name="ACCENTALTCOLOR" value="#3030D0"/>
+    <Color name="EMPHASISCOLOR" value="#5050E0"/>
+</THEME>

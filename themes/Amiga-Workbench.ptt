@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#0055AA"/> <!-- Amiga Blauw -->
+    <Color name="FOREGROUND" value="#FFFFFF"/> <!-- Wit -->
+    <Color name="HICOLOR1" value="#000000"/> <!-- Zwart -->
+    <Color name="HICOLOR2" value="#FFAA00"/> <!-- Amiga Oranje -->
+    <Color name="CONSOLECOLOR" value="#FFFFFF"/>
+    <Color name="CURSORCOLOR" value="#FFAA00"/>
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#FFAA00"/>
+    <Color name="ERRORCOLOR" value="#000000"/>
+    <Color name="ACCENTCOLOR" value="#004488"/>
+    <Color name="ACCENTALTCOLOR" value="#003366"/>
+    <Color name="EMPHASISCOLOR" value="#FFAA00"/>
+</THEME>

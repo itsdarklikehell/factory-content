@@ -1,0 +1,27 @@
+<THEME>
+    <Font value="#1"/>
+    <!-- Diep zwartgroen voor de typische CRT-achtergrond -->
+    <Color name="BACKGROUND" value="#050A05"/>
+    <!-- Het iconische Pip-Boy groen -->
+    <Color name="FOREGROUND" value="#18FF62"/>
+    <!-- Donkergroen voor secundaire elementen -->
+    <Color name="HICOLOR1" value="#003300"/>
+    <!-- Helderder groen voor highlights -->
+    <Color name="HICOLOR2" value="#22FF00"/>
+    <!-- Terminal groen voor de console -->
+    <Color name="CONSOLECOLOR" value="#18FF62"/>
+    <!-- De cursor is een blok van helder groen -->
+    <Color name="CURSORCOLOR" value="#18FF62"/>
+    <!-- 'V.A.T.S.' blauwgroen voor info -->
+    <Color name="INFOCOLOR" value="#32FBFF"/>
+    <!-- Amberkleurig voor waarschuwingen (Fallout New Vegas stijl) -->
+    <Color name="WARNCOLOR" value="#FFB642"/>
+    <!-- Fel rood voor gevaar/straling -->
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <!-- Verschillende lagen groen voor interface-diepte -->
+    <Color name="ACCENTCOLOR" value="#115511"/>
+    <Color name="ACCENTALTCOLOR" value="#082208"/>
+    <!-- Een zachte groene gloed voor nadruk -->
+    <Color name="EMPHASISCOLOR" value="#0A330A"/>
+</THEME>
+

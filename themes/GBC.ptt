@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#301050"/> <!-- Transparant Paars -->
+    <Color name="FOREGROUND" value="#9BBC0F"/> <!-- Classic LCD Green -->
+    <Color name="HICOLOR1" value="#481080"/>
+    <Color name="HICOLOR2" value="#FFFFFF"/>
+    <Color name="CONSOLECOLOR" value="#9BBC0F"/>
+    <Color name="CURSORCOLOR" value="#8BAC0F"/>
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#FFCC00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#200838"/>
+    <Color name="ACCENTALTCOLOR" value="#100020"/>
+    <Color name="EMPHASISCOLOR" value="#481080"/>
+</THEME>

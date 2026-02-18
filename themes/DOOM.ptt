@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#121212"/>
+    <Color name="FOREGROUND" value="#FF5F00"/> <!-- Hazard Orange -->
+    <Color name="HICOLOR1" value="#333333"/>
+    <Color name="HICOLOR2" value="#00A2FF"/> <!-- UAC Blue -->
+    <Color name="CONSOLECOLOR" value="#00A2FF"/>
+    <Color name="CURSORCOLOR" value="#FF5F00"/>
+    <Color name="INFOCOLOR" value="#00A2FF"/>
+    <Color name="WARNCOLOR" value="#FFCC00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#252525"/>
+    <Color name="ACCENTALTCOLOR" value="#050505"/>
+    <Color name="EMPHASISCOLOR" value="#333333"/>
+</THEME>

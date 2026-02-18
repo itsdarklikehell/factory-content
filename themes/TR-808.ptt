@@ -1,0 +1,15 @@
+<THEME>
+    <Font value="#1"/>
+    <Color name="BACKGROUND" value="#121212"/>
+    <Color name="FOREGROUND" value="#FFFFFF"/>
+    <Color name="HICOLOR1" value="#444444"/>
+    <Color name="HICOLOR2" value="#FF4E00"/> <!-- 808 Oranje -->
+    <Color name="CONSOLECOLOR" value="#FF0000"/> <!-- 808 Rood -->
+    <Color name="CURSORCOLOR" value="#FFB700"/> <!-- 808 Geel -->
+    <Color name="INFOCOLOR" value="#FFFFFF"/>
+    <Color name="WARNCOLOR" value="#FF4E00"/>
+    <Color name="ERRORCOLOR" value="#FF0000"/>
+    <Color name="ACCENTCOLOR" value="#333333"/>
+    <Color name="ACCENTALTCOLOR" value="#222222"/>
+    <Color name="EMPHASISCOLOR" value="#FF0000"/>
+</THEME>
