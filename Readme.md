@@ -2,7 +2,7 @@
 
 This repository contains the default content on the sdcard that is shipped with the picoTracker Advance.
 
-
+# The sdcard content for the [Advance is available as zipfile here](https://github.com/xiphonics/factory-content/releases/download/may-2026/advance-sd.zip) and for [the pico here](https://github.com/xiphonics/factory-content/releases/download/may-2026/pico-sd.zip)
 
 ## Licensing
 
